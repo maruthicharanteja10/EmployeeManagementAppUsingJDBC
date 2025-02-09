@@ -67,7 +67,7 @@ com.employeeApp │ ├── DbConnection.java // Manages the MySQL database co
 2. **Clone the Repository:**
    - Clone or download the repository from GitHub:
      ```bash
-     git clone https://github.com/your-username/EmployeeManagementApp.git
+     git clone https:github.com/maruthicharanteja10/EmployeeManagementApp.git](https://github.com/maruthicharanteja10/EmployeeManagementAppUsingJDBC)
      ```
 
 3. **Configure Database Credentials (Optional):**
