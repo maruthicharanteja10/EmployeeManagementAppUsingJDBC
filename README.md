@@ -38,8 +38,12 @@ The application uses a simple DAO pattern:
 - **Modular Design:** Clear separation of concerns using separate classes and an interface.
 
 ## Project Structure
-com.employeeApp │ ├── DbConnection.java // Manages the MySQL database connection. ├── EmpTestApp.java // Main class with the console menu. ├── Employee.java // Employee POJO. ├── EmployeeInterface.java // Interface defining CRUD methods. └── EmployeeImpl.java // Implementation of EmployeeInterface.
-
+com.employeeApp/
+├── DbConnection.java         // Manages the MySQL database connection.
+├── EmpTestApp.java           // Main class with the console menu.
+├── Employee.java             // Employee POJO.
+├── EmployeeInterface.java    // Interface defining CRUD methods.
+└── EmployeeImpl.java         // Implementation of EmployeeInterface.
 
 ## Requirements
 
